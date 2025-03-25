@@ -50,7 +50,7 @@ a:hover {
 }
 
 .landing {
-  
+  border: white 2px solid;
   display: flex;
   align-items: start;
   justify-content: start;
@@ -64,7 +64,6 @@ a:hover {
 
 .landing h1 {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-
   font-size: 4.5em;
   margin: 0;
   color: white;
@@ -72,21 +71,24 @@ a:hover {
 }
 
 .landing p {
-  font-size: 1.2em;
-  font-weight: 400;
+  font-size: 1.7em;
   color: white;
-  line-height: 5;
+  line-height:  1.5em;
+  
 }
 
 .landing img {
   border: white 2px solid;
-  width: 20%;
-  height: 40%;
+  display: flex;
+  align-items: right;
+  justify-content: center;
+  width: 250px;
+  height: 300px;
   margin-top: 1em;
-  position: fixed;
-  right: 13%;
-  top: 25%;
+  margin-left: 75em;
+ 
 }
+ 
 
 .Footer, Footer p{
   position: fixed;
