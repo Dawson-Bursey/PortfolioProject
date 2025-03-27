@@ -1,0 +1,28 @@
+.landingPage {
+    background-color:#0e1a40f9;
+    border: white 2px solid;
+    display: flex;
+    align-items: start;
+    justify-content: start;
+    margin-top: 10%;
+    margin-left: 5%;
+    padding: 2em;
+    height: 50vh;
+    width: 50%;
+  }
+  
+  
+  .landingPage h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 4.5em;
+    margin: 0;
+    color: white;
+   
+  }
+  
+  .landingPage p {
+    font-size: 1.7em;
+    color: white;
+    line-height:  1.5em;
+    
+  }

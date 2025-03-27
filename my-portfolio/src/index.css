@@ -1,8 +1,7 @@
  :root{
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
   font-weight: 400;
-  color: rgba(255, 255, 255, 0.87);
-  background-color:#0e1a40f9;
+  background-color: #0e1a40f9;
 }
 
 .navbar {
@@ -49,46 +48,6 @@ a:hover {
   color: crimson;
 }
 
-.landing {
-  border: white 2px solid;
-  display: flex;
-  align-items: start;
-  justify-content: start;
-  margin-top: 10%;
-  margin-left: 5%;
-  padding: 2em;
-  height: 50vh;
-  width: 50%;
-}
-
-
-.landing h1 {
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-  font-size: 4.5em;
-  margin: 0;
-  color: white;
- 
-}
-
-.landing p {
-  font-size: 1.7em;
-  color: white;
-  line-height:  1.5em;
-  
-}
-
-.landing img {
-  border: white 2px solid;
-  display: flex;
-  align-items: right;
-  justify-content: center;
-  width: 250px;
-  height: 300px;
-  margin-top: 1em;
-  margin-left: 75em;
- 
-}
- 
 
 .Footer, Footer p{
   position: fixed;
