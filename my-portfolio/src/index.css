@@ -6,21 +6,22 @@
 
 .navbar {
   display: flex;
-  align-items: center;
-  justify-content: center;
   border: solid 1px white;
-  border-radius: 15px;
-  margin: auto;
+  background-color: #0e1a40f9;
   width: 90%;
   height: 90px;
-  background-color: #0e1a40f9;
+  border-radius: 15px;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
   font-family: fantasy;
 }
 
 .navbar ul {
   display: flex;
-  justify-content: center;
+  border: solid 1px white;
   align-items: center;
+  justify-content: center;
   margin: auto;
   padding-right: 12em;
   gap: 4em;
@@ -31,11 +32,13 @@
 }
 
 .navbar h2 {
-  color: white;
-  margin-left: 1em;
   display: flex;
+  border: solid 1px white;
+  color: white;
   align-items: center;
   justify-content: center;
+  margin-left: 1em;
+ 
 
 }
 

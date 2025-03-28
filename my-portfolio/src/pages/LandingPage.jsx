@@ -1,4 +1,4 @@
-import NavBar from "../components/NavBar";
+
 import "./LandingPage.css";
 
 function LandingPage() {
@@ -9,6 +9,7 @@ function LandingPage() {
         <h1>Web Developer</h1>
         <p>Hi I am Dawson. I am a software developer graduate with an eagerness to grow and learn.</p>
         </header>
+        <img src="" alt="me" />
     </div>
   );
 }
