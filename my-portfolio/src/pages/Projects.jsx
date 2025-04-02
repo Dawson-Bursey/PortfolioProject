@@ -6,7 +6,7 @@ function Projects() {
         <div>
          
         
-            <Footer/>
+            
 
         </div>
 );

@@ -1,0 +1,35 @@
+.resumePage {
+    display: flex;
+    border: solid 1px white;
+    height: 80vh;
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    align-items: center;  
+    color: white;
+}
+
+
+.contactInfo {
+    display: flex;
+    flex-direction: column;
+    line-height: 1;
+    border: solid 1px white;
+    margin-left: 1%;
+    margin-right: auto;
+    margin-bottom: 35%;
+    padding-right: 2%;
+}
+
+.certifications {
+    display: flex;
+    flex-direction: column;
+    line-height: 1;
+    border: solid 1px white;
+    margin-left: auto;
+    margin-right: 1%;
+    margin-bottom: 35%;
+    padding-left: 2%;
+}
+
