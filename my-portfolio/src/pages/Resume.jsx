@@ -34,24 +34,40 @@ function Resume() {
             <div className="education">
                 <h2>Education</h2>
                 <ul>
-                    <li>Keyin Collage</li>
-                    <li></li>
-                    <li>Graduated: 2023</li>
+                    <li>
+                        Keyin College - Graduated Dec/20/24
+                        <ul>
+                            <li>Diploma in Software Development</li>
+                            <li>Specialization in Front-End Development</li>
+                            <li>Capstone Project: Portfolio Website</li>
+                        </ul>
+                    </li>
+                    <br />
+                    <li>Carbonear Collegiate
+                        <ul>
+                            <li>Graduated June/2022</li>
+                            <li>89% Average</li>
+                            <li>Academic Diploma</li>
+
+                        </ul>
+                    </li>
                 </ul>
             </div>
 
-            {/* 
-
-            <div className="experience"></div>
-
-            <div className="skills"></div>
-
-             */}
-
+            <div className="skills">
+                <h2>Skills</h2>
+                <ul>
+                    <li>HTML5</li>
+                    <li>CSS3</li>
+                    <li>JavaScript</li>
+                    <li>React.js</li>
+                    <li>Node.js</li>
+                    <li>Express.js</li>
+                    <li>MongoDB</li>
+                    <li>Git and GitHub</li>
+                </ul>
+            </div>
         
-           
-        
-    
 
         </div>
 );
