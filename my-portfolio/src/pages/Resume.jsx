@@ -66,26 +66,32 @@ function Resume() {
                 <h2>Skills</h2>
                 <ul>
                     <li>HTML5</li>
-                    <li>CSS3</li>
+                    <li>CSS</li>
                     <li>JavaScript</li>
                     <li>React.js</li>
                     <li>Node.js</li>
                     <li>Express.js</li>
                     <li>MongoDB</li>
+                    <li>PostgreSQL</li>
+                    <li>MySQL</li>
                     <li>Git and GitHub</li>
                 </ul>
 
                 <div className="Experince">
                 <h2>Experience</h2>
                 <ul>
-                    <li>Software Development Intern at XYZ Company</li>
-                    <li>Worked on a team to develop and maintain web applications using React and Node.js.</li>
-                    <li>Collaborated with designers and product managers to implement new features and improve user experience.</li>
-                    <li>Participated in code reviews and contributed to the development of best practices.</li>
+                    <li>LadderSpike.inc</li>
+                        <ul>
+                            <li>Worked with other students as a team to help design and pland a new website layout.</li>
+                            <li>Used Liquid to build and redesign sections of each page on shopify.</li>
+                            <li>Helped with adding and re-evaluating features and funtions of the website.</li>
+                            <li>Helped with Brainstorming and Naming of future additions of the product.</li>
+                        </ul>
+                    
                 </ul>
 
                 <br />
-                <h2>Projects</h2>
+                <h2>Projects</h2> {/* Might Replace with more eperince */}
                 <ul>
                     <li>Personal Portfolio Website</li>
                     <li>Developed a responsive portfolio website using HTML, CSS, and JavaScript to showcase my projects and skills.</li>

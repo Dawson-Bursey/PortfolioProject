@@ -18,7 +18,6 @@
 }
 .navbar ul {
   display: flex;
-  border: solid 1px white;
   align-items: center;
   justify-content: center;
   margin: auto;
